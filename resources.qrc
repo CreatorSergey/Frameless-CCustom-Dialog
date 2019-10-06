@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>dialog_close_16.png</file>
+    </qresource>
+</RCC>
